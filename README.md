@@ -22,7 +22,7 @@
 
 * VT-D -> disabled
 * CFG Lock -> disabled
-* Windows 10 WHQL -> disabled
+* Windows 10 WHQL -> enabled
 * XHCI Hand-off -> enabled
 * 设置第一显卡 -> IGD
 * 共享显存 -> 64M
