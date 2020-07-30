@@ -35,7 +35,7 @@
 >
 > [SMBIOS生成教程](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#platforminfo)
 >
-> 机型选择: **iMac19,1 **
+> 机型选择: **iMac19,1**
 
 ### 参考链接
 
